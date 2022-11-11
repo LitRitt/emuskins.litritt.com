@@ -16,31 +16,31 @@ description: >-
 {% tab title="DS" %}
 ### [Download](../Skins/LitRitt/Ignited/Orange/NDS/skin.deltaskin)
 
-![](../.gitbook/assets/skin-poster@2x.png)
+![](<../.gitbook/assets/skin-poster@2x (8).png>)
 {% endtab %}
 
 {% tab title="GBA" %}
 ### [Download](../Skins/LitRitt/Ignited/Orange/GBA/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (2).png>)
+![](<../.gitbook/assets/skin-poster@2x (4).png>)
 {% endtab %}
 
 {% tab title="GBC" %}
 ### [Download](../Skins/LitRitt/Ignited/Orange/GBC/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (1).png>)
+![](<../.gitbook/assets/skin-poster@2x (7).png>)
 {% endtab %}
 
 {% tab title="SNES" %}
 ### [Download](../Skins/LitRitt/Ignited/Orange/SNES/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (4).png>)
+![](<../.gitbook/assets/skin-poster@2x (1).png>)
 {% endtab %}
 
 {% tab title="NES" %}
 ### [Download](../Skins/LitRitt/Ignited/Orange/NES/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (6).png>)
+![](../.gitbook/assets/skin-poster@2x.png)
 {% endtab %}
 {% endtabs %}
 
@@ -56,13 +56,13 @@ description: >-
 {% tab title="GBA" %}
 ### [Download](../Skins/LitRitt/Ignited/Purple/GBA/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (3).png>)
+![](<../.gitbook/assets/skin-poster@2x (6).png>)
 {% endtab %}
 
 {% tab title="GBC" %}
 ### [Download](../Skins/LitRitt/Ignited/Purple/GBC/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (7).png>)
+![](<../.gitbook/assets/skin-poster@2x (3).png>)
 {% endtab %}
 
 {% tab title="SNES" %}
@@ -74,6 +74,6 @@ description: >-
 {% tab title="NES" %}
 ### [Download](../Skins/LitRitt/Ignited/Purple/NES/skin.deltaskin)
 
-![](<../.gitbook/assets/skin-poster@2x (8).png>)
+![](<../.gitbook/assets/skin-poster@2x (2).png>)
 {% endtab %}
 {% endtabs %}
