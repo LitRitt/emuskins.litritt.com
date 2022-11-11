@@ -9,13 +9,6 @@ layout: landing
 
 # 🌈 Welcome
 
-## Lit Links
-
-* Support me on [Patreon](https://patreon.com/litritt)
-* Follow me on [Twitter](https://twitter.com/lit\_ritt)
-* Join the public [Delta Discord](https://discord.gg/altstore-delta-625714187078860810)
-* Message me on [Discord](http://discordapp.com/users/125295540677246977)
-
 ## Lit Skins
 
 {% content-ref url="skins/ignited.md" %}
