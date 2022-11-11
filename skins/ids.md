@@ -12,7 +12,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 
 {% tabs %}
 {% tab title="Charcoal" %}
-### [Download](../iDS/ds-charcoal-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Charcoal/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0182.PNG)
 
@@ -20,7 +20,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 {% endtab %}
 
 {% tab title="Smoke" %}
-### [Download](../iDS/ds-smoke-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Smoke/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0180.PNG)
 
@@ -28,7 +28,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 {% endtab %}
 
 {% tab title="Lime" %}
-### [Download](../iDS/ds-lime-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Lime/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0184.PNG)
 
@@ -36,7 +36,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 {% endtab %}
 
 {% tab title="Cherry" %}
-### [Download](../iDS/ds-cherry-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Cherry/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0200.PNG)
 
@@ -48,7 +48,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 
 {% tabs %}
 {% tab title="Blaze" %}
-### [Download](../iDS/ds-blaze-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Blaze/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0266.PNG)
 
@@ -56,7 +56,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 {% endtab %}
 
 {% tab title="Honeycomb" %}
-### [Download](../iDS/ds-honeycomb-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Honeycomb/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0197.PNG)
 
@@ -64,7 +64,7 @@ description: Colorful skins for DS. Tap the top screen to toggle fast forward
 {% endtab %}
 
 {% tab title="Delta" %}
-### [Download](../iDS/ds-delta-litritt.deltaskin)
+### [Download](../Skins/LitRitt/iDS/Delta/skin.deltaskin)
 
 ![](../.gitbook/assets/IMG\_0186.PNG)
 
