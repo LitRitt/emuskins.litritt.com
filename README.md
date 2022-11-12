@@ -9,13 +9,6 @@ layout: landing
 
 # 🌈 Welcome
 
-## Lit Links
-
-* Support me on [Patreon](https://patreon.com/litritt)
-* Follow me on [Twitter](https://twitter.com/lit\_ritt)
-* Join the public [Delta Discord](https://discord.gg/altstore-delta-625714187078860810)
-* Message me on [Discord](http://discordapp.com/users/125295540677246977)
-
 ## Lit Skins
 
 {% content-ref url="skins/ignited.md" %}
@@ -57,10 +50,3 @@ layout: landing
 {% content-ref url="stuff/wallpapers.md" %}
 [wallpapers.md](stuff/wallpapers.md)
 {% endcontent-ref %}
-
-## Other Skin Resources
-
-* [Skins 4 Delta](https://skins4delta.com/)
-* [Delta Skins](https://delta-skins.github.io/)
-* [Circa's Delta Skins](https://circa.im/emu/delta/skins/)
-* [Skin Generator](https://generator.skins4delta.com/)
