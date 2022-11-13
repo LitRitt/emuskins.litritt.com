@@ -2,13 +2,13 @@
 
 * [🌈 Welcome](README.md)
 
-## 💎 Lit Skins <a href="#skins" id="skins"></a>
+## 💎 Lit Skins <a href="#Skins" id="Skins"></a>
 
-* [🔥 Ignited](skins/ignited.md)
-* [🍎 Lit CC](skins/lit-cc.md)
-* [💻 iDS](skins/ids.md)
-* [📟 GBA SP](skins/gba-sp.md)
-* [🎮 Other Skins](skins/other.md)
+* [🔥 Ignited](Skins/LitRitt/Ignited.md)
+* [🍎 Lit CC](Skins/lit-cc.md)
+* [💻 iDS](Skins/ids.md)
+* [📟 GBA SP](Skins/gba-sp.md)
+* [🎮 Other Skins](Skins/other.md)
 
 ## 🙌 Community Skins <a href="#community" id="community"></a>
 

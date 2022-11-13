@@ -11,24 +11,24 @@ layout: landing
 
 ## Lit Skins
 
-{% content-ref url="skins/ignited.md" %}
-[ignited.md](skins/ignited.md)
+{% content-ref url="Skins/LitRitt/Ignited.md" %}
+[Ignited.md](Skins/LitRitt/Ignited.md)
 {% endcontent-ref %}
 
-{% content-ref url="skins/lit-cc.md" %}
-[lit-cc.md](skins/lit-cc.md)
+{% content-ref url="Skins/lit-cc.md" %}
+[lit-cc.md](Skins/lit-cc.md)
 {% endcontent-ref %}
 
-{% content-ref url="skins/ids.md" %}
-[ids.md](skins/ids.md)
+{% content-ref url="Skins/ids.md" %}
+[ids.md](Skins/ids.md)
 {% endcontent-ref %}
 
-{% content-ref url="skins/gba-sp.md" %}
-[gba-sp.md](skins/gba-sp.md)
+{% content-ref url="Skins/gba-sp.md" %}
+[gba-sp.md](Skins/gba-sp.md)
 {% endcontent-ref %}
 
-{% content-ref url="skins/other.md" %}
-[other.md](skins/other.md)
+{% content-ref url="Skins/other.md" %}
+[other.md](Skins/other.md)
 {% endcontent-ref %}
 
 ## Community Skins
