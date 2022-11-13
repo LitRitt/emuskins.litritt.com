@@ -2,21 +2,19 @@
 
 * [🌈 Welcome](README.md)
 
-## 💎 Lit Skins <a href="#Skins" id="Skins"></a>
+## 🎮 Skins <a href="#Skins" id="Skins"></a>
 
-* [Lit Skins](Skins/lit-skins.md)
-* [🔥 Ignited](Skins/Ignited.md)
-* [🍎 Lit CC](Skins/lit-cc.md)
-* [💻 iDS](Skins/ids.md)
-* [📟 GBA SP](Skins/gba-sp.md)
-* [🎮 Other Skins](Skins/other.md)
+* [🔥 Lit Skins](Skins/LitRitt/README.md)
+  * [🔥 Ignited](Skins/LitRitt/Ignited.md)
+  * [🔥 Lit CC](Skins/LitRitt/Lit-CC.md)
+  * [🔥 iDS](Skins/LitRitt/iDS.md)
+  * [🔥 GBA SP](Skins/LitRitt/GBA-SP.md)
+  * [🔥 LitBoy Color](Skins/LitRitt/Litboy-Color.md)
+* [👾 Community Skins](Skins/Hosted/README.md)
+  * [💻 NDS Skins](Skins/Hosted/NDS.md)
+  * [🎰 GBC Skins](Skins/Hosted/GBC.md)
 
-## 🙌 Community Skins <a href="#community" id="community"></a>
+## 🥵 Graphics <a href="#Graphics" id="Graphics"></a>
 
-* [💻 DS Skins](community/ds.md)
-* [🎰 GBC Skins](community/gbc-skins.md)
-
-## 🥵 Other Stuff <a href="#stuff" id="stuff"></a>
-
-* [🔄 Shortcuts](stuff/shortcuts.md)
-* [🖼 Wallpapers](stuff/wallpapers.md)
+* [🔄 Shortcuts](Graphics/Shortcuts.md)
+* [🖼 Wallpapers](Graphics/Wallpapers.md)
