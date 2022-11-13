@@ -11,8 +11,8 @@ layout: landing
 
 ## Lit Skins
 
-{% content-ref url="Skins/LitRitt/Ignited.md" %}
-[Ignited.md](Skins/LitRitt/Ignited.md)
+{% content-ref url="Skins/LitRitt.md" %}
+[LitRitt.md](Skins/LitRitt.md)
 {% endcontent-ref %}
 
 {% content-ref url="Skins/lit-cc.md" %}
