@@ -4,7 +4,8 @@
 
 ## 💎 Lit Skins <a href="#Skins" id="Skins"></a>
 
-* [🔥 Ignited](Skins/LitRitt.md)
+* [Lit Skins](Skins/lit-skins.md)
+* [🔥 Ignited](Skins/Ignited.md)
 * [🍎 Lit CC](Skins/lit-cc.md)
 * [💻 iDS](Skins/ids.md)
 * [📟 GBA SP](Skins/gba-sp.md)
