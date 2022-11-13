@@ -2,7 +2,7 @@
 
 * [🌈 Welcome](README.md)
 
-## 🎮 Skins <a href="#Skins" id="Skins"></a>
+## 🎮 Delta Skins <a href="#Skins" id="Skins"></a>
 
 * [🔥 Lit Skins](Skins/LitRitt/README.md)
   * [🔥 Ignited](Skins/LitRitt/Ignited.md)
