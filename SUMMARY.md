@@ -11,8 +11,8 @@
   * [🔥 GBA SP](Skins/LitRitt/GBA-SP.md)
   * [🔥 LitBoy Color](Skins/LitRitt/Litboy-Color.md)
 * [👾 Community Skins](Skins/Hosted/README.md)
-  * [💻 NDS Skins](Skins/Hosted/NDS.md)
   * [🎰 GBC Skins](Skins/Hosted/GBC.md)
+  * [💻 NDS Skins](Skins/Hosted/NDS.md)
 
 ## 🎨 Graphics and More <a href="#Graphics" id="Graphics"></a>
 

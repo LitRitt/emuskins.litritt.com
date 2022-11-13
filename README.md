@@ -41,16 +41,12 @@ layout: landing
 [GBC.md](Skins/Hosted/GBC.md)
 {% endcontent-ref %}
 
-## Graphics and More
+## Other Stuff
 
-{% content-ref url="Graphics/Lit.md" %}
-[Lit.md](Graphics/Lit.md)
+{% content-ref url="Graphics/Shortcuts.md" %}
+[Shortcuts.md](Graphics/Shortcuts.md)
 {% endcontent-ref %}
 
 {% content-ref url="Graphics/Wallpapers.md" %}
 [Wallpapers.md](Graphics/Wallpapers.md)
-{% endcontent-ref %}
-
-{% content-ref url="Graphics/Shortcuts.md" %}
-[Shortcuts.md](Graphics/Shortcuts.md)
 {% endcontent-ref %}
