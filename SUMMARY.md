@@ -14,7 +14,8 @@
   * [💻 NDS Skins](Skins/Hosted/NDS.md)
   * [🎰 GBC Skins](Skins/Hosted/GBC.md)
 
-## 🥵 Graphics <a href="#Graphics" id="Graphics"></a>
+## 🎨 Graphics and More <a href="#Graphics" id="Graphics"></a>
 
-* [🔄 Shortcuts](Graphics/Shortcuts.md)
+* [🔥 Lit Graphics](Graphics/Lit.md)
 * [🖼 Wallpapers](Graphics/Wallpapers.md)
+* [🔄 Shortcuts](Graphics/Shortcuts.md)
