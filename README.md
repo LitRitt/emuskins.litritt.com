@@ -2,7 +2,7 @@
 description: >-
   I make skins for the Delta emulator for iOS. Here you can find and download
   the skins I've created, as well as anything else I make
-cover: Graphics/Lit/banner.png
+cover: Graphics/LitRitt/banner.png
 coverY: 0
 layout: landing
 ---
@@ -21,8 +21,8 @@ layout: landing
 
 ## Graphics and More
 
-{% content-ref url="Graphics/Lit.md" %}
-[Lit.md](Graphics/Lit.md)
+{% content-ref url="Graphics/LitRitt.md" %}
+[LitRitt.md](Graphics/LitRitt.md)
 {% endcontent-ref %}
 
 {% content-ref url="Graphics/Wallpapers.md" %}

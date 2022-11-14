@@ -16,6 +16,6 @@
 
 ## 🎨 Graphics and More <a href="#Graphics" id="Graphics"></a>
 
-* [🔥 Lit Graphics](Graphics/Lit.md)
+* [🔥 Lit Graphics](Graphics/LitRitt.md)
 * [🖼 Wallpapers](Graphics/Wallpapers.md)
 * [🔄 Shortcuts](Graphics/Shortcuts.md)

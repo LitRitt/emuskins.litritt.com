@@ -1,5 +1,7 @@
 ---
 description: A simple skin based on the Gameboy Color
+cover: ../../Graphics/LitRitt/banner.png
+coverY: 0
 ---
 
 # 🔥 LitBoy Color

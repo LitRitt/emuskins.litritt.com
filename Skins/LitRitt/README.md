@@ -1,5 +1,7 @@
 ---
 description: Skins created by myself, LitRitt
+cover: ../../Graphics/LitRitt/banner.png
+coverY: 0
 ---
 
 # 🔥 Lit Skins

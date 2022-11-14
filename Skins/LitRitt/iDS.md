@@ -1,5 +1,7 @@
 ---
 description: Colorful skins for DS. Tap the top screen to toggle fast forward
+cover: ../../Graphics/LitRitt/banner.png
+coverY: 0
 ---
 
 # 🔥 iDS

@@ -1,5 +1,7 @@
 ---
 description: Skins based on the GBA SP handheld
+cover: ../../Graphics/LitRitt/banner.png
+coverY: 0
 ---
 
 # 🔥 GBA SP

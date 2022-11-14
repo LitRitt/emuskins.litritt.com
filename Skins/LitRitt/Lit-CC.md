@@ -1,5 +1,7 @@
 ---
 description: What if you opened your control center and it turned into a beautiful skin?
+cover: ../../Graphics/LitRitt/banner.png
+coverY: 0
 ---
 
 # 🔥 Lit CC
