@@ -14,37 +14,37 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Black" %}
-### [Download](../../GBA%20SP/gba-sp-black.deltaskin)
+### [Download](GBA-SP/Black/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (3).png>)
 {% endtab %}
 
 {% tab title="Platinum" %}
-### [Download](../../GBA%20SP/gba-sp-platinum.deltaskin)
+### [Download](GBA-SP/Platinum/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (6).png>)
 {% endtab %}
 
 {% tab title="Cobalt" %}
-### [Download](../../GBA%20SP/gba-sp-cobalt.deltaskin)
+### [Download](GBA-SP/Cobalt/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (14).png>)
 {% endtab %}
 
 {% tab title="Flame" %}
-### [Download](../../GBA%20SP/gba-sp-flame.deltaskin)
+### [Download](GBA-SP/Flame/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (2).png>)
 {% endtab %}
 
 {% tab title="Pearl Blue" %}
-### [Download](../../GBA%20SP/gba-sp-pearl-blue.deltaskin)
+### [Download](GBA-SP/Pearl-Blue/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (9).png>)
 {% endtab %}
 
 {% tab title="Pearl Pink" %}
-### [Download](../../GBA%20SP/gba-sp-pearl-pink.deltaskin)
+### [Download](GBA-SP/Pearl-Pink/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (4).png>)
 {% endtab %}
@@ -54,25 +54,25 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Pikachu" %}
-### [Download](../../GBA%20SP/gba-sp-pikachu.deltaskin)
+### [Download](GBA-SP/Pikachu/skin.deltaskin)
 
 ![](../../.gitbook/assets/iphone-edgetoedge-portrait-preview.png)
 {% endtab %}
 
 {% tab title="Emerald" %}
-### [Download](../../GBA%20SP/gba-sp-emerald.deltaskin)
+### [Download](GBA-SP/Emerald/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (1).png>)
 {% endtab %}
 
 {% tab title="Ruby" %}
-### [Download](../../GBA%20SP/gba-sp-ruby.deltaskin)
+### [Download](GBA-SP/Ruby/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (8).png>)
 {% endtab %}
 
 {% tab title="Sapphire" %}
-### [Download](../../GBA%20SP/gba-sp-sapphire.deltaskin)
+### [Download](GBA-SP/Sapphire/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (5).png>)
 {% endtab %}
@@ -81,26 +81,26 @@ coverY: 0
 ## Other Themes
 
 {% tabs %}
-{% tab title="Ultralight" %}
-### [Download](../../GBA%20SP/gba-sp-ultralight.deltaskin)
+{% tab title="Orange Hex" %}
+### [Download](GBA-SP/Orange-Hex/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (7).png>)
 {% endtab %}
 
 {% tab title="Blue Hex" %}
-### [Download](../../GBA%20SP/gba-sp-blue-hex.deltaskin)
+### [Download](GBA-SP/Blue-Hex/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (11).png>)
 {% endtab %}
 
 {% tab title="Delta Dark" %}
-### [Download](../../GBA%20SP/gba-sp-dark.deltaskin)
+### [Download](GBA-SP/Dark/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (10).png>)
 {% endtab %}
 
 {% tab title="Delta Light" %}
-### [Download](../../GBA%20SP/gba-sp-light.deltaskin)
+### [Download](GBA-SP/Light/skin.deltaskin)
 
 ![](<../../.gitbook/assets/iphone\_edgetoedge\_portrait\_preview (13).png>)
 {% endtab %}
