@@ -12,6 +12,6 @@ description: Community made skins for the Gameboy Color
 * Orientations: Portrait
 * Extra Buttons: Fast Forward
 
-### [Download](../../Community%20Skins/gbc-sunrise.deltaskin)
+### [Download](GBC/Sunrise/skin.deltaskin)
 
-![](../../Community%20Skins/gbc-sunrise.png)
+![](GBC/Sunrise/image.png)

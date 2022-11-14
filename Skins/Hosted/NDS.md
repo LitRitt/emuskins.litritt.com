@@ -12,7 +12,7 @@ description: Community made skins for the Nintendo DS
 * Orientations: Portrait
 * Extra Buttons: Fast Forward
 
-### [Download](NDS/Llamaroid/skin.deltaskin)
+### [Download](../../Community%20Skins/Llamaroid\_NDS.deltaskin)
 
 <figure><img src="../../.gitbook/assets/Llamaroid_NDS_-_Portrait_-_Screenshot.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,9 +25,9 @@ This skin tries to maximize screen size as much as possible. The buttons reflect
 * Devices: Edge to Edge
 * Orientations: Portrait
 
-### [Download](NDS/NTR/skin.deltaskin)
+### [Download](../../Community%20Skins/ntr.deltaskin)
 
-![](NDS/NTR/image.png)
+![](../../Community%20Skins/ntr-portrait.png)
 
 ## Fullscreen Landscape Skin \[FSLS]
 
@@ -37,7 +37,7 @@ This skin tries to maximize screen size as much as possible. The buttons reflect
 * Orientations: Landscape
 * Extra Buttons: Fast Forward, Quick Save
 
-### [Download](NDS/FSLS/skin.deltaskin)
+### [Download](../../Community%20Skins/FSLS\_v2.2.deltaskin)
 
 <figure><img src="../../.gitbook/assets/FSLS_v2.2.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,6 +51,6 @@ This is a skin intended for touchscreen-only DS games- such as Ace Attorney, Hot
 * Orientations: Portrait
 * Extra Buttons: Fast Forward, Quick Save, Quick Load
 
-### [Download](NDS/TouchDS/skin.deltaskin)
+### [Download](../../Community%20Skins/TouchDS.deltaskin)
 
-![](NDS/TouchDS/image.jpg)
+![](../../Community%20Skins/TouchDS.jpg)
