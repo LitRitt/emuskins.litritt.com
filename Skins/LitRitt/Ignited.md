@@ -1,7 +1,5 @@
 ---
-description: >-
-  Ignited provides a consistent experience across most of Delta’s consoles and
-  provide a fast forward button
+description: Ignited provides a consistent experience across most of Delta’s consoles
 cover: ../../Graphics/LitRitt/banner.png
 coverY: 0
 ---
