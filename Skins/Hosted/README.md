@@ -1,5 +1,5 @@
 ---
-description: Skins made by other members of the community, and hosted here
+description: Skins made by other members of the community
 ---
 
 # 👾 Community Skins

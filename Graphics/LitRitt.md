@@ -1,5 +1,5 @@
 ---
-description: Here you can find graphics that I use for my Lit branding
+description: Graphics that I use for my Lit branding
 ---
 
 # 🔥 Lit Graphics

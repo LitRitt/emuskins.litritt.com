@@ -1,10 +1,13 @@
 ---
-description: What if you opened your control center and it turned into a beautiful skin?
+description: >-
+  What if you opened your control center and it turned into a beautiful skin?
+  Features a blurred live game screen in the background and a slim Split View
+  iPad skin with live blurred background.
 cover: ../../Graphics/LitRitt/banner.png
 coverY: 0
 ---
 
-# 🔥 Lit CC
+# 🍎 Lit CC
 
 ## GBA
 
