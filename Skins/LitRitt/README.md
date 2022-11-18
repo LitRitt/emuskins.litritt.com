@@ -1,5 +1,5 @@
 ---
-description: Skins created by myself, LitRitt
+description: Skins I've created. Crafted with precision and love. I hope you enjoy them.
 cover: ../../Graphics/LitRitt/banner.png
 coverY: 0
 ---
