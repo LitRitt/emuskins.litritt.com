@@ -4,7 +4,6 @@ description: >-
   the skins I've created, as well as anything else I make
 cover: Graphics/LitRitt/banner.png
 coverY: 0
-layout: landing
 ---
 
 # 🌈 Welcome
