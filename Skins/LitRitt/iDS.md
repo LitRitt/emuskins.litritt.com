@@ -4,7 +4,7 @@ cover: ../../Graphics/LitRitt/banner.png
 coverY: 0
 ---
 
-# 🔥 iDS
+# 💻 iDS
 
 * Devices: Standard, Edge to Edge
 * Orientations: Portrait, Landscape

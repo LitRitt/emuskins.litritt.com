@@ -4,7 +4,7 @@ cover: ../../Graphics/LitRitt/banner.png
 coverY: 0
 ---
 
-# 🔥 LitBoy Color
+# 🤖 LitBoy Color
 
 * Devices: Standard, Edge to Edge
 * Orientations: Portrait
