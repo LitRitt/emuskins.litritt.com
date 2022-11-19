@@ -10,7 +10,7 @@ description: >-
 
 ## [Download SVG](https://raw.githubusercontent.com/LitRitt/DeltaSkins/4d229151358ba7036df4c3acc2659ae5d941c3f9/Graphics/Cartridge-Art/cartridge-art.svg)
 
-## Blank Icons
+## Icons
 
 <div>
 
