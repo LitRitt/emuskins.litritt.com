@@ -1,7 +1,5 @@
 ---
-description: >-
-  Album cover artwork for the Delta game library showcasing each systems' unique
-  cartridge
+description: Game cover artwork showcasing each systems' unique cartridge
 ---
 
 # 💾 Cartridge Art
