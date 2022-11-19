@@ -17,7 +17,45 @@ coverY: 0
 
 ### [Download](Lit-CC/GBA/skin.deltaskin)
 
-<figure><img src="Lit-CC/GBA/image.png" alt=""><figcaption></figcaption></figure>
+### iPhone
+
+<div>
+
+<figure><img src="Lit-CC/GBA/Previews/iphone-portrait.png" alt=""><figcaption><p>Standard Portrait</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/iphone-landscape.png" alt=""><figcaption><p>Standard Landscape</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/iphone-e2e-portrait.png" alt=""><figcaption><p>Edge to Edge Portrait</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/iphone-e2e-landscape.png" alt=""><figcaption><p>Edge to Edge Landscape</p></figcaption></figure>
+
+</div>
+
+### iPad
+
+<div>
+
+<figure><img src="Lit-CC/GBA/Previews/ipad-portrait.png" alt=""><figcaption><p>Standard Portrait</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/ipad-landscape.png" alt=""><figcaption><p>Standard Landscape</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/ipad-split-portrait.png" alt=""><figcaption><p>Split View Portrait</p></figcaption></figure>
+
+ 
+
+<figure><img src="Lit-CC/GBA/Previews/ipad-split-landscape.png" alt=""><figcaption><p>Split View Landscape</p></figcaption></figure>
+
+</div>
 
 ## GBC
 
