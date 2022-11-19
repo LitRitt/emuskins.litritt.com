@@ -24,6 +24,10 @@ coverY: 0
 [LitRitt.md](Graphics/LitRitt.md)
 {% endcontent-ref %}
 
+{% content-ref url="Graphics/Cartridge-Art.md" %}
+[Cartridge-Art.md](Graphics/Cartridge-Art.md)
+{% endcontent-ref %}
+
 {% content-ref url="Graphics/Wallpapers.md" %}
 [Wallpapers.md](Graphics/Wallpapers.md)
 {% endcontent-ref %}
