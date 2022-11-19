@@ -20,18 +20,18 @@ coverY: 0
 
 ## Graphics and More
 
-{% content-ref url="Graphics/LitRitt.md" %}
-[LitRitt.md](Graphics/LitRitt.md)
-{% endcontent-ref %}
-
 {% content-ref url="Graphics/Cartridge-Art.md" %}
 [Cartridge-Art.md](Graphics/Cartridge-Art.md)
 {% endcontent-ref %}
 
-{% content-ref url="Graphics/Wallpapers.md" %}
-[Wallpapers.md](Graphics/Wallpapers.md)
-{% endcontent-ref %}
-
 {% content-ref url="Graphics/Shortcuts.md" %}
 [Shortcuts.md](Graphics/Shortcuts.md)
+{% endcontent-ref %}
+
+{% content-ref url="Graphics/LitRitt.md" %}
+[LitRitt.md](Graphics/LitRitt.md)
+{% endcontent-ref %}
+
+{% content-ref url="Graphics/Wallpapers.md" %}
+[Wallpapers.md](Graphics/Wallpapers.md)
 {% endcontent-ref %}
