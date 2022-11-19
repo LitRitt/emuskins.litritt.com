@@ -1,7 +1,8 @@
 ---
 description: >-
-  I make skins for the Delta emulator for iOS. Here you can find and download
-  the skins I've created, as well as anything else I make
+  I’m LitRitt, a graphic designer specializing in controller skins for the Delta
+  emulator. Here you can find my skins, as well as some community created skins.
+  Anything else I create also lives here.
 cover: Graphics/LitRitt/banner.png
 coverY: 0
 ---
