@@ -14,7 +14,7 @@ description: Community made skins for the Nintendo DS
 
 ### [Download](NDS/Llamaroid/skin.deltaskin)
 
-<figure><img src="../../.gitbook/assets/Llamaroid_NDS_-_Portrait_-_Screenshot.png" alt=""><figcaption></figcaption></figure>
+![](NDS/Llamaroid/image.png)
 
 ## NTR
 
@@ -39,7 +39,7 @@ This skin tries to maximize screen size as much as possible. The buttons reflect
 
 ### [Download](NDS/FSLS/skin.deltaskin)
 
-<figure><img src="../../.gitbook/assets/FSLS_v2.2.png" alt=""><figcaption></figcaption></figure>
+![](NDS/FSLS/image.png)
 
 ## Touch DS
 
