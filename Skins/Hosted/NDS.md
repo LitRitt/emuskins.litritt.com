@@ -14,7 +14,7 @@ description: Community made skins for the Nintendo DS
 
 ### [Download](NDS/Llamaroid/skin.deltaskin)
 
-![](NDS/Llamaroid/image.png)
+![](broken-reference)
 
 ## NTR
 
@@ -27,7 +27,7 @@ This skin tries to maximize screen size as much as possible. The buttons reflect
 
 ### [Download](NDS/NTR/skin.deltaskin)
 
-![](NDS/NTR/image.png)
+![](broken-reference)
 
 ## Fullscreen Landscape Skin \[FSLS]
 
@@ -39,7 +39,7 @@ This skin tries to maximize screen size as much as possible. The buttons reflect
 
 ### [Download](NDS/FSLS/skin.deltaskin)
 
-![](NDS/FSLS/image.png)
+![](broken-reference)
 
 ## Touch DS
 
@@ -53,4 +53,4 @@ This is a skin intended for touchscreen-only DS games- such as Ace Attorney, Hot
 
 ### [Download](NDS/TouchDS/skin.deltaskin)
 
-![](NDS/TouchDS/image.jpg)
+![](broken-reference)
