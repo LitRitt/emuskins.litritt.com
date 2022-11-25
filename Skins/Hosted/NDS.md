@@ -53,4 +53,4 @@ This is a skin intended for touchscreen-only DS games- such as Ace Attorney, Hot
 
 ### [Download](NDS/TouchDS/skin.deltaskin)
 
-![](NDS/TouchDS/image.png)
+![](NDS/TouchDS/image.jpg)
