@@ -2,21 +2,21 @@
 
 * [🌈 Welcome](README.md)
 
-## 🎮 Delta Skins <a href="#Skins" id="Skins"></a>
+## 🎮 Delta Skins <a href="#skins" id="skins"></a>
 
-* [🔥 Lit Skins](Skins/LitRitt/README.md)
-  * [🔥 Ignited](Skins/LitRitt/Ignited.md)
-  * [🍎 Lit CC](Skins/LitRitt/Lit-CC.md)
-  * [💻 iDS](Skins/LitRitt/iDS.md)
-  * [🎬 GBA SP](Skins/LitRitt/GBA-SP.md)
-  * [🤖 LitBoy Color](Skins/LitRitt/Litboy-Color.md)
-* [👾 Community Skins](Skins/Hosted/README.md)
-  * [🎰 GBC Skins](Skins/Hosted/GBC.md)
-  * [💻 NDS Skins](Skins/Hosted/NDS.md)
+* [🔥 Lit Skins](skins/litritt/README.md)
+  * [🔥 Ignited](skins/litritt/ignited.md)
+  * [🍎 Lit CC](skins/litritt/lit-cc.md)
+  * [💻 iDS](skins/litritt/ids.md)
+  * [🎬 GBA SP](skins/litritt/gba-sp.md)
+  * [🤖 LitBoy Color](skins/litritt/litboy-color.md)
+* [👾 Community Skins](skins/hosted/README.md)
+  * [🎰 GBC Skins](skins/hosted/gbc.md)
+  * [💻 NDS Skins](skins/hosted/nds.md)
 
-## 🎨 Graphics and More <a href="#Graphics" id="Graphics"></a>
+## 🎨 Graphics and More <a href="#graphics" id="graphics"></a>
 
-* [💾 Cartridge Art](Graphics/Cartridge-Art.md)
-* [🔄 Shortcuts](Graphics/Shortcuts.md)
-* [🔥 Lit Graphics](Graphics/LitRitt.md)
-* [🖼 Wallpapers](Graphics/Wallpapers.md)
+* [💾 Cartridge Art](graphics/cartridge-art.md)
+* [🔄 Shortcuts](graphics/shortcuts.md)
+* [🔥 Lit Graphics](graphics/litritt.md)
+* [🖼 Wallpapers](graphics/wallpapers.md)

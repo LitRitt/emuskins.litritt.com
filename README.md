@@ -11,28 +11,28 @@ coverY: 0
 
 ## Delta Skins
 
-{% content-ref url="Skins/LitRitt/" %}
-[LitRitt](Skins/LitRitt/)
+{% content-ref url="skins/litritt/" %}
+[litritt](skins/litritt/)
 {% endcontent-ref %}
 
-{% content-ref url="Skins/Hosted/" %}
-[Hosted](Skins/Hosted/)
+{% content-ref url="skins/hosted/" %}
+[hosted](skins/hosted/)
 {% endcontent-ref %}
 
 ## Graphics and More
 
-{% content-ref url="Graphics/Cartridge-Art.md" %}
-[Cartridge-Art.md](Graphics/Cartridge-Art.md)
+{% content-ref url="graphics/cartridge-art.md" %}
+[cartridge-art.md](graphics/cartridge-art.md)
 {% endcontent-ref %}
 
-{% content-ref url="Graphics/Shortcuts.md" %}
-[Shortcuts.md](Graphics/Shortcuts.md)
+{% content-ref url="graphics/shortcuts.md" %}
+[shortcuts.md](graphics/shortcuts.md)
 {% endcontent-ref %}
 
-{% content-ref url="Graphics/LitRitt.md" %}
-[LitRitt.md](Graphics/LitRitt.md)
+{% content-ref url="graphics/litritt.md" %}
+[litritt.md](graphics/litritt.md)
 {% endcontent-ref %}
 
-{% content-ref url="Graphics/Wallpapers.md" %}
-[Wallpapers.md](Graphics/Wallpapers.md)
+{% content-ref url="graphics/wallpapers.md" %}
+[wallpapers.md](graphics/wallpapers.md)
 {% endcontent-ref %}
